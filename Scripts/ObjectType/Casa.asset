@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a215f3631ecc68409082cb845dde13b, type: 3}
+  m_Name: Casa
+  m_EditorClassIdentifier: 
+  nameString: Casa
+  prefab: {fileID: 7737344082403301043, guid: c12b04cbd6f71e54aa2af26af5e3a75a, type: 3}
+  visual: {fileID: 31794238402445228, guid: 4a9459f02bc6fbf43a4b2807e83e88c5, type: 3}
+  largura_z: 1
+  largura_x: 1
